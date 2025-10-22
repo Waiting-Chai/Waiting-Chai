@@ -32,7 +32,7 @@ Here are some of the recent hackathons I've participated in and the projects I'v
 | Hackathon                                                                                    | Project                                                                | Description                                                                                             |
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | 🏅 **ETHShanghai 2025**                                                                      | [**SmartGroup**](https://github.com/CryptoBird-Invite3/SmartGroup)     | An AI-powered tool to analyze project discussion heatmaps and alpha within Telegram communities.        |
-| 🌱 **LXDAO Casual Hackathon**                                                                  | [**ChainOath**](https://github.com/Waiting-Chai/ChainOath)             | An on-chain pledge and bounty platform with social features like likes, comments, and achievement NFTs. |
+| 🌱 **LXDAO Casual Hackathon**                                                                  | [**ChainOath**](https://github.com/CasualHackathon/MyFirstDApp)            | An on-chain pledge and bounty platform with social features like likes, comments, and achievement NFTs. |
 
 ---
 
