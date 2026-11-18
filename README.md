@@ -1,54 +1,25 @@
-<!-- Typing SVG -->
-<h1 align="center">
-  <a href="https://github.com/Waiting-Chai">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3498DB&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Chai+%F0%9F%91%8B;A+Passionate+Web3+Enthusiast;Rust+Lover+%26+Semiconductor+Pro" alt="Typing SVG">
-  </a>
-</h1>
+![Waiting, Suzhou](assets/header.svg)
 
-<!-- Personal Bio -->
-<p align="center">
-  I'm a professional in the semiconductor industry from <strong>Suzhou, China</strong>, with a deep passion for Web3 and decentralized technologies.
-  <br>
-  As an avid <strong>Rust enthusiast</strong>, I love building innovative projects and actively participate in hackathons to learn and collaborate.
-</p>
+Public projects from Suzhou.
 
----
+## 项目
 
-### 🔧 My Tech Stack
+### [log-mcp-rs](https://github.com/Waiting-Chai/log-mcp-rs)
 
-<p align="center">
-  <!-- Skills: Java, JavaScript, Rust, Go, and some related tech -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,rust,go,nodejs,react,docker,git,linux" />
-  </a>
-</p>
+用 Rust 编写的 MCP 服务，用于检索和分析日志。支持 SSE 与 Stdio，以及正则、时间过滤和多行日志。
 
----
+### [duang_file](https://github.com/Waiting-Chai/duang_file) · [duang_file_web](https://github.com/Waiting-Chai/duang_file_web)
 
-### 🏆 Recent Hackathons & Projects
+局域网文件传输。后端为 Go/Gin，前端为 React/Vite/TypeScript。支持 WebRTC、设备发现、设备列表和消息。
 
-Here are some of the recent hackathons I've participated in and the projects I've built.
+### [ChainOath](https://github.com/Waiting-Chai/ChainOath)
 
-| Hackathon                                                                                    | Project                                                                | Description                                                                                             |
-| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 🏅 **ETHShanghai 2025**                                                                      | [**SmartGroup**](https://github.com/CryptoBird-Invite3/SmartGroup)     | An AI-powered tool to analyze project discussion heatmaps and alpha within Telegram communities.        |
-| 🌱 **LXDAO Casual Hackathon**                                                                  | [**ChainOath**](https://github.com/CasualHackathon/MyFirstDApp)            | An on-chain pledge and bounty platform with social features like likes, comments, and achievement NFTs. |
+以太坊上的承诺与激励应用，包含托管奖励和成就 NFT。使用 React/TypeScript、Solidity/Foundry 和 ethers.js。
 
----
+### [fastapi-poe-rust](https://github.com/Waiting-Chai/fastapi-poe-rust)
 
-### 📊 My GitHub Stats
+按 Poe 协议构建机器人的 Rust SDK，支持流式响应。
 
-<p align="center">
-  <!-- Use a table to display cards side-by-side -->
-  <table>
-    <tr>
-      <td width="50%">
-        <!-- Top Languages Card -->
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waiting-Chai&layout=compact&theme=tokyonight&hide_border=true&text_color=FFFFFF&bg_color=0D1117" alt="Chai's Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+### [JSimul](https://github.com/Waiting-Chai/JSimul)
 
+Java 21 与 Maven 的离散事件仿真核心，写法参考 SimPy，提供 Environment、Process 和 Resource。
